@@ -1,6 +1,8 @@
-## Your Name
+## Charlotte Smallwood-Smith
+#### [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Hi I'm Charlotte, I'm currently a student at Makers Academy. I have exprience working in many different enviroments, my favourite was teaching English in Japan. 
+I'm excited to learn more about coding during my time at Makers. 
 
 ## Projects
 
@@ -11,25 +13,24 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**NHS Mid Essex** (January 2017 to July 2020)  
+Health records clerk
+Preparing patient records for outpatient appointments.
+Working within a team and individually to meet tight deadlines. 
+I was nominated for the 'Star of the Month' award by another department. 
 
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+**Borderlink, Inc** (April 2015 to March 2016)  
+Assistant language teacher
+Assisting the English teacher with various teaching tasks, such as; 
+- Helping students with pronounciation, vocabulary and spelling. 
+- Teaching students about the culture from my country
+- Playing language based games with the students
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Receptive 
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
+At my previous position at NHS Mid Essex. I quickly went from being a new member of staff to being one of the most heavily relied on members of the team. In my first six months in my position I was chosen to be a 'champion' of a new software being implimented within the hospital. My role as a 'champion' required me to have extra training and then help staff in my office using the new software. I was chosen for my fast learning ability and my knowledge and intrest in technology and computers.
 
 #### Another Skill
 
@@ -42,23 +43,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2020 to October 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University for the creative arts (September 2010 to May 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA (Hons) Animation
+- 3rd
+- Founded and ran the university Anime club.
 
-#### Any other qualifications
+#### Other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- 
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Studying Japanese
+- Digital illustration
+
+## Contact
+
+- [Github](https://github.com/Charlotte-91)
+- [Codewars](https://www.codewars.com/users/Charlotte-91)
+- [Linkedin](https://www.linkedin.com/in/charlotte-smallwood-smith/)
