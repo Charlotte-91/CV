@@ -63,7 +63,7 @@ Learning how to apply industry-standard best practices to write clean code to so
 ### Other notable mentions
 - Founded and ran the college Anime and Video game club in Sixth form College.
 
-## Hobbies
+### Hobbies
 
 🇯🇵 Studying Japanese
 🎨 Digital illustration
