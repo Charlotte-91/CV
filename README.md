@@ -1,5 +1,11 @@
 ## Charlotte Smallwood-Smith
-#### [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
+
+[<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Charlotte-91)
+[<img src="https://img.shields.io/badge/codewars-%23AD2C27.svg?&style=for-the-badge&logo=codewars&logoColor=white"/>](https://www.codewars.com/users/Charlotte-91)
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/charlotte-smallwood-smith/)
+[<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:c.smallwood.smith@gmail.com)
+
+#### [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
 
 Hi I'm Charlotte, I'm graduate from Makers Academy's August 2020 cohort. I have exprience working in many different enviroments, such a printing and administration but my favourite was teaching English in Japan. 
 
@@ -43,7 +49,7 @@ At each of my previous positions and also at Makers Academy, team work has been 
 
 ## Education
 
-#### Makers Academy (July 2020 - October 2020)
+### Makers Academy (July 2020 - October 2020)
 
 Learning how to apply industry-standard best practices to write clean code to solve problems
 
@@ -55,10 +61,27 @@ Learning how to apply industry-standard best practices to write clean code to so
 - Linting, code quality, test coverage with; **rubocop, eslint, simplecov**
 - Planning out a project with **User stories, Wireframes and domain modeling**
 
-#### University for the creative arts (September 2010 to May 2013)
+### University for the creative arts (September 2010 to May 2013)
 
-- BA (Hons) Animation
-- Founded and ran the university Anime club.
+**BA (Hons) Animation**
+
+**Adobe Photoshop, Adobe After Effects, Softimage, Adobe Premier pro, Final cut pro**
+
+The degree also consisted of: 
+
+  - Various animation types including:
+      - Hand drawn Animation
+      - Oil on glass
+      - Sand 
+      - Stop motion
+      - 2D computer animation
+      - 3D modeling and animation
+      
+  - Project and skill development:
+      - Storyboarding, Animatic, Sound design
+      - Life drawing
+
+I also founded and ran the university Anime club.
 
 ### Other notable mentions
 - Founded and ran the college Anime and Video game club in Sixth form College.
@@ -66,14 +89,13 @@ Learning how to apply industry-standard best practices to write clean code to so
 ### Hobbies
 
 🇯🇵 Studying Japanese
+
 🎨 Digital illustration
+
 🖥️ Anime
+
 🎮 Video games
+
 🍰 Baking
 
-## Contact
 
-[<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Charlotte-91)
-[<img src="https://img.shields.io/badge/codewars-%23AD2C27.svg?&style=for-the-badge&logo=codewars&logoColor=white"/>](https://www.codewars.com/users/Charlotte-91)
-[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/charlotte-smallwood-smith/)
-[<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:c.smallwood.smith@gmail.com)
