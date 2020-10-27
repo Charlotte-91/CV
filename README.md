@@ -31,7 +31,7 @@ Hi I'm Charlotte, I'm graduate from Makers Academy's August 2020 cohort. I have 
 *Assistant language teacher*
 
 Assisting the English teacher with various teaching tasks, such as; 
-- Helping students with pronounciation, vocabulary and spelling. 
+- Helping students with pronunciation, vocabulary and spelling. 
 - Teaching students about the culture from my country
 - Playing language based games with the students
 
