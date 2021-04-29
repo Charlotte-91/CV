@@ -7,12 +7,14 @@
 
 #### [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
 
-Hi I'm Charlotte, I'm graduate from Makers Academy's August 2020 cohort. I have exprience working in many different enviroments, such a printing and administration but my favourite was teaching English in Japan. 
+Hi I'm Charlotte, I'm graduate from Makers Academy's August 2020 cohort. I am currently working on personal projects whilst job hunting, Learning new technolgies everyday. I have exprience working in many different enviroments, such a printing and administration but my favourite was teaching English in Japan. 
 
 ## Projects
 
 | Name                         | Description          | Tech/tools                |
 | ---------------------------- | -------------------- | ------------------------- |
+|[**Genshin card generator**](https://github.com/Charlotte-91/genshin-card-generator) | A personal project which I have released. I am constantly improving and updating this porject and I've had great responses so far. It is essential a small website which acts as a companion to the game Genshin Impact. It allows the user to show others what characters they play as and how they structure their team. | Node.js, Vue.js, Vue Konva, Vue Router, Vue-Multiselect, Heroku |
+|[**All in one Travel App**](https://github.com/Charlotte-91/all-in-one-travel-app) | A personal project I am slowly progressing with. I have always wanted a travel app that can do everything from tickets, itenirty, maps, notes, etc. Which is where this idea has stemmed from. | Node.js, React Native, Firebase, React Navigation |
 | [**Turtle Dash**](https://github.com/imogen-k/turtle-dash)             | Our Makers final project. A cute browser game which can be played on desktop and mobile. Our first time coding a game with a great end result. Have a play [here!](http://turtle-dash.surge.sh/)| Node.js, Phaser.js, Surge |
 | [**Octobook**](https://github.com/Charlotte-91/acebook-rails-quadropus) | For this project we were asked to create a facebook clone. We focused on agile working practices and team work. This was our first project using Ruby on Rails.   | Ruby, Rails, HTML, SCSS, Rspec, Capybara, Travis CI, Heroku|
 | [**Bank tech test**](https://github.com/Charlotte-91/Bank-tech-test) | This was a practice tech test from week 10 of Makers. We had to create a virtual banking software. I focused on writing clean code and filling any gaps I had in my Javascript knowledge. | Javascript, Nyc Jasmine |
